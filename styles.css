@@ -1,0 +1,36 @@
+
+#lorem {
+    color: cadetblue;
+    background-color: crimson;
+}
+
+.rot {
+    color: red
+}
+
+.green {
+    color: green;
+}
+
+.cool {
+    background-color: aqua;
+}
+
+.rainbow {
+    background: rgb(238, 4, 249);
+    background: linear-gradient(0deg, rgba(238, 4, 249, 1) 0%, rgba(47, 61, 244, 1) 26%, rgba(192, 248, 131, 1) 50%, rgba(230, 236, 125, 1) 75%, rgba(253, 45, 45, 1) 100%);
+    flex-grow: 1;
+    width: 100vw;
+}
+
+.rainbow2 {
+    background: rgb(238, 4, 249);
+    background: linear-gradient(0deg, rgba(238, 4, 249, 1) 0%, rgba(47, 61, 244, 1) 26%, rgba(192, 248, 131, 1) 50%, rgba(230, 236, 125, 1) 75%, rgba(253, 45, 45, 1) 100%);
+    flex-grow: 2;
+    width: 100vw;
+}
+
+h3 {
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+}
